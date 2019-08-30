@@ -1,0 +1,1 @@
+const SITENAME = 'Сайт Василия';
