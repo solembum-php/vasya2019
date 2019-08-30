@@ -8,5 +8,5 @@ include_once config.php;
 	</head>
 	<body>
 		<h1><?php SITENAME ?></h1>
-	<body>
+	</body>
 </html>
