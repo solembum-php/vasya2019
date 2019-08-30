@@ -4,9 +4,9 @@ include_once config.php;
 <!doctype html>
 <html>
 	<head>
-		<title>SITENAME</title>
+		<title><?php SITENAME ?></title>
 	</head>
 	<body>
-		<h1>SITENAME</h1>
+		<h1><?php SITENAME ?></h1>
 	<body>
 </html>
